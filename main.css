@@ -2,5 +2,27 @@
     border-bottom: 1px solid black;
 }
 .td {
-    padding: 20px 20px 20px 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.columns {
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+
+}
+
+.row1 {
+    font-size: 50px;
+    font-style: bold;
+}
+
+.row2{
+    color:grey;
+}
+
+.table2 {
+    width: 50%;
 }
