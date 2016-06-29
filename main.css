@@ -26,3 +26,53 @@
 .table2 {
     width: 50%;
 }
+
+
+
+.bar1 {
+    float:left;
+    
+}
+
+.bar-idiomas1 tr td {
+	width: 700px;
+	font-size: 80%;
+	
+}
+
+.bar-idiomas1 tr th {
+	text-align: right;
+	padding-right: 5px;
+	width: 100px;
+	
+}
+
+.bar-idiomas1 tr td div {
+	color: white;
+	background-color: blue;
+	border-radius: 5px;
+	padding: 3px;
+}
+.container {
+    color: lightblue;
+}
+
+.lightbox-background{
+    width: 800px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 80px;
+}
+.lightbox-close-button {
+    display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 15px 45px;
+  font-size: 20px;
+  font-family: "Bitter",serif;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+  
+}
+
